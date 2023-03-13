@@ -1,5 +1,5 @@
 {
-  "name": "esprima",
+  "name": "esprima-plus",
   "description": "ECMAScript parsing infrastructure for multipurpose analysis",
   "homepage": "http://esprima.org",
   "main": "dist/esprima.js",
@@ -7,7 +7,7 @@
     "esparse": "./bin/esparse.js",
     "esvalidate": "./bin/esvalidate.js"
   },
-  "version": "4.0.0-dev",
+  "version": "0.0.1-dev",
   "files": [
     "bin",
     "dist/esprima.js"
@@ -16,13 +16,13 @@
     "node": ">=8"
   },
   "author": {
-    "name": "Ariya Hidayat",
-    "email": "ariya.hidayat@gmail.com"
+    "name": "suosui",
+    "email": "18844141934@163.com"
   },
   "maintainers": [
     {
-      "name": "Ariya Hidayat",
-      "email": "ariya.hidayat@gmail.com",
+      "name": "suosui",
+      "email": "18844141934@163.com",
       "web": "http://ariya.ofilabs.com"
     }
   ],
