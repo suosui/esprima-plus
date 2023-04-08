@@ -119,7 +119,7 @@ export class Tokenizer {
         this.reader = new Reader();
     }
 
-    errors() {
+    errors(): Error[] {
         return this.errorHandler.errors;
     }
 
